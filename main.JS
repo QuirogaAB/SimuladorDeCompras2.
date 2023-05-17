@@ -100,7 +100,7 @@ switch (opcion){
     case 4:
         calcularTotal();
         break
-    case 4:
+    case 5:
         salir();
         break;
 }
