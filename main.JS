@@ -82,7 +82,7 @@ function calcularTotal(){
 }
 
 function salir() {
-    alert("Hasta luego que tenga buenas compras.");
+    alert("Gracias por preferir Años Dorados,hasta pronto");
 }
 
 do {
